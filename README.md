@@ -8,7 +8,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 </p>
 
 <p align="center">
-<a href="https://youtu.be/L_SIk59QeAU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtu.be/ygIOzvZS0z0?si=HBG2WzpWO-2cBBkJ"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
